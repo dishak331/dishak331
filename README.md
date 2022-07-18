@@ -4,9 +4,7 @@
 <br>
 <img align="center" src="https://wallpaperaccess.com/full/2525121.jpg" height="300" width="100%" ></img>
 <h1 align="center">Hi there 👋, I'm Disha </h1>
-<p align="center">
-<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
-</p>
+
 <hr>
 
 
